@@ -26,7 +26,7 @@
                     <img class="img-responsive" src="assets/img/sliders/slide1.jpg" alt="">
                 </div>
                 <div class="item">
-                    <img class="img-responsive" src="assets/img/sliders/slide2.jpg" alt="">
+                    <img class="img-responsive" src="assets/img/sliders/slide3.jpg" alt="">
                 </div>
             </div>
 

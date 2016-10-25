@@ -3,20 +3,21 @@ package mvc.domain;
 import javax.persistence.*;
 
 @Entity
-public class Applicant
+public class Candidate
 {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name = "applicant_id")
+    @Column(name = "candidate_id")
     private Integer Id;
 
     @Version
     private Integer version;
 
-    public String firstName;
-    public String lastName;
-    public String emailAddress;
-    public String telephoneNumber;
+    private String firstName;
+    private String lastName;
+    private String emailAddress;
+    private String telephoneNumber;
+
 
     public Integer getId ()
     {

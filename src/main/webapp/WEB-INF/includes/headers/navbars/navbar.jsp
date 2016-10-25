@@ -53,7 +53,6 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a href="/about">About Us</a></li>
-                                <li><a href="/difference">The Aston Difference</a></li>
                                 <li><a href="/careers">Careers</a></li>
                             </ul>
                         </li>
