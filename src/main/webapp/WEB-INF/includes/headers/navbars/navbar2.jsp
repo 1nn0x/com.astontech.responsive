@@ -52,7 +52,7 @@
 
                     <div class="navbar-brand">
                         <a href="/">
-                            <img src="assets/img/header-logo2.png" alt="Logo">
+                            <img src="/assets/img/header-logo2.png" alt="Logo">
                         </a>
                     </div>
                 </div><!--/end responsive container-->

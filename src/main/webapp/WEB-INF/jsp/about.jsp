@@ -49,22 +49,25 @@
         <div class="row">
             <div class="col-md-4 service-desc md-margin-bottom-50">
                 <i class="fa fa-code"></i>
-                <h3>Design</h3>
-                <p class="no-margin-bottom">We work closely with our clients to provide developers who can plan, analyze, code and manage your applications</p>
+                <h3>Java Development</h3>
+                <p class="no-margin-bottom">We work closely with our clients to provide developers who can plan, analyze, code and manage your applications.</p>
             </div>
             <div class="col-md-4 service-desc md-margin-bottom-50">
                 <i class="icon-rocket"></i>
-                <h3>Development</h3>
-                <p class="no-margin-bottom">Morbi ac placerat nibh, in vestibulum odio cras vel orci non dolor sagittis sollicitudin et eu jeriu ntesque.<br> Curabitur vitae augue
+                <h3>Cisco Engineers</h3>
+                <p class="no-margin-bottom">We provide businesses with the network engineers required to plan, implement and maintain your network resources.
                 </p>
             </div>
             <div class="col-md-4 service-desc">
                 <i class="icon-support"></i>
-                <h3>Support</h3>
-                <p class="no-margin-bottom">Morbi ac placerat nibh, in vestibulum odio cras vel orci non dolor sagittis sollicitudin et eu jeriu ntesque.<br> Curabitur vitae augue
+                <h3>Total Support</h3>
+                <p class="no-margin-bottom">Our Support Team ensures you always have access to full-coverage that will keep your business running smoothly.
                 </p>
             </div>
         </div><!--/end row-->
+        <div class="headline-center-v2" style="margin-top: 15px; padding-bottom: 0 !important;">
+            <a href="/careers" type="button" class="center-block btn-u btn-brd btn-brd-hover btn-u">All Services</a>
+        </div>
     </div><!--/end container-->
 </div>
 
@@ -72,8 +75,8 @@
 <div class="parallax-bg parallaxBg1">
     <div class="container content parallax-about">
         <div class="title-box-v2">
-            <h2>About our <span class="color-green">company</span></h2>
-            <p><span class="color-green">Aston Technologies</span> offers a broad range of services and solutions to meet your unique data, voice and contact center needs. You’ll receive meticulous business analytics, project management and engineering when you upgrade, enhance, migrate or install a network.
+            <h2 class="color-light">About our <span class="color-green">company</span></h2>
+            <p class="color-light"><span class="color-green">Aston Technologies</span> offers a broad range of services and solutions to meet your unique data, voice and contact center needs. You'll receive meticulous business analytics, project management and engineering when you upgrade, enhance, migrate or install a network.
                Our focus on new IP technology as well as legacy analog systems enables us to develop plans and provide assistance tailored to your resources.
         </div>
 
@@ -82,22 +85,22 @@
                 <div class="banner-info dark margin-bottom-10">
                     <i class="rounded-x icon-bell"></i>
                     <div class="overflow-h">
-                        <h3>Our mission</h3>
-                        <p>To provide the most talented, professional and resourceful consultants to support or develop any existing technology.</p>
+                        <h3 class="color-green">Our Mission</h3>
+                        <p class="color-light">To provide the most talented, professional and resourceful consultants to support or develop any existing technology.</p>
                     </div>
                 </div>
                 <div class="banner-info dark margin-bottom-10">
                     <i class="rounded-x fa fa-magic"></i>
                     <div class="overflow-h">
-                        <h3>Our vision</h3>
-                        <p>Phasellus vitae rhoncus ipsum. Aliquam ultricies, velit sit amet scelerisque tincidunt, dolor neque consequat est, a dictum felis metus eget nulla.</p>
+                        <h3 class="color-green">Our Ideals</h3>
+                        <p class="color-light">We utilize all current technologies to create a customized, leading-edge solution that will positively affect all aspects of your business.</p>
                     </div>
                 </div>
                 <div class="banner-info dark margin-bottom-10">
                     <i class="rounded-x fa fa-thumbs-o-up"></i>
                     <div class="overflow-h">
-                        <h3>We are good at ...</h3>
-                        <p>Nunc ac ligula ut diam rutrum porttitor. Integer et neque at lacus placerat pretium eu ac dui. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</p>
+                        <h3 class="color-green">Our Commmitment</h3>
+                        <p class="color-light">To aggregate every available asset to ensure our customers recieve the best possible service. </p>
                     </div>
                 </div>
                 <div class="margin-bottom-20"></div>
@@ -116,7 +119,7 @@
             <div class="carousel-inner">
                 <div class="item">
                     <div class="headline-center-v2 headline-center-v2-dark">
-                        <h2>What Our Clients Say About Us</h2>
+                        <h2 class="color-light-override">What Our Clients Say About Us</h2>
                         <span class="bordered-icon"><i class="fa fa-th-large"></i></span>
                         <p>" Over the past five years Aston Technologies has provided great benefits to the growth and stability of our Unified Communications and Contact Center platforms.
                            Aston engineers hit the ground running and require minimal oversight. They delivered positive results and provided instant value in our very complex global platform.
@@ -171,27 +174,9 @@
                 <div class="team-v2">
                     <img class="img-responsive" src="assets/img/testimonials/img4.jpg" alt=""/>
                     <div class="inner-team">
-                        <h3>Jack Anderson</h3>
-                        <small class="color-green">Cisco Engineer</small>
+                        <h3>James McRoberts</h3>
+                        <small class="color-green">CEO</small>
                         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                        <hr>
-                        <ul class="list-inline team-social">
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="fb tooltips" data-original-title="Facebook" href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="tw tooltips" data-original-title="Twitter" href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="gp tooltips" data-original-title="Google plus" href="#">
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -205,24 +190,6 @@
                         <h3>Nathan Campbell</h3>
                         <small class="color-green">Recruiting Manager</small>
                         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                        <hr>
-                        <ul class="list-inline team-social">
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="fb tooltips" data-original-title="Facebook" href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="tw tooltips" data-original-title="Twitter" href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="gp tooltips" data-original-title="Google plus" href="#">
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -236,24 +203,6 @@
                         <h3>Tony Morano</h3>
                         <small class="color-green">Senior Java Developer</small>
                         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                        <hr>
-                        <ul class="list-inline team-social">
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="fb tooltips" data-original-title="Facebook" href="#">
-                                    <i class="fa fa-facebook"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="tw tooltips" data-original-title="Twitter" href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="gp tooltips" data-original-title="Google plus" href="#">
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -267,23 +216,6 @@
                         <h3>Bipin Butala</h3>
                         <small class="color-green">Software Development Director</small>
                         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, justo sit amet risus etiam porta sem...</p>
-                        <hr>
-                        <ul class="list-inline team-social">
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="fb tooltips" data-original-title="Facebook" href="#">
-                                    <i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="tw tooltips" data-original-title="Twitter" href="#">
-                                    <i class="fa fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a data-placement="top" data-toggle="tooltip" class="gp tooltips" data-original-title="Google plus" href="#">
-                                    <i class="fa fa-google-plus"></i>
-                                </a>
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>

@@ -279,7 +279,7 @@
 .breadcrumbs-v3.img-v3
 {
     background-size: cover;
-    background:      url(../img/breadcrumbs/img3.jpg) no-repeat center center;
+    background:      url(../img/bg/golden_gate.jpg) no-repeat center center;
 }
 
 .breadcrumbs-v3:after
@@ -2233,7 +2233,7 @@
     height:     100%;
     content:    " ";
     position:   absolute;
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.85);
 }
 
 /*Background Dark Cover*/
@@ -8130,6 +8130,8 @@ img.img-mouse
     color:     #777777;
     font-size: 14px;
 }
+
+
 
 /*Removes Bootstrap carousel background images*/
 .testimonials-bs .item

@@ -96,14 +96,14 @@
             <div class="col-sm-9">
                 <div class="tab-content">
                     <div class="tab-pane fade active in" id="cisco1">
-                        <a href="/careers/${id}" class="btn-u btn-u-xs pull-right pulse-grow">Learn More</a>
+                        <a href="/careers/${id}" class="btn-u btn-u-xs pull-right pulse-grow">Apply</a>
                         <h4>Entry Level IT (Cisco) Network Engineer</h4>
                         <p>Aston Technologies Inc. is an innovative IT staffing and solutions company in Saint Louis Park, Minnesota.
                            Hands on paid training is provided under the guidance of our dedicated Mentors to help
                            prepare you for an entry level role within our Systems and Network related projects.</p>
                     </div>
                     <div class="tab-pane fade" id="cisco2">
-                        <a href="/careers/${id}" class="btn-u btn-u-xs pull-right pulse-grow">Learn More</a>
+                        <a href="/careers/job_one" class="btn-u btn-u-xs pull-right pulse-grow">Apply</a>
                         <h4>Entry Level IT (Cisco) Network Engineer</h4>
                         <p>Aston Technologies is an IT Consulting firm located in South San Francisco, CA. We are
                            looking to fill Entry Level IT positions local to the Bay Area.
@@ -111,7 +111,7 @@
                            prepare you for an entry level role within our Systems and Network related projects.</p>
                     </div>
                     <div class="tab-pane fade" id="accountmanager1">
-                        <a href="/careers/${id}" class="btn-u btn-u-xs pull-right pulse-grow">Learn More</a>
+                        <a href="/careers/${id}" class="btn-u btn-u-xs pull-right pulse-grow">Apply</a>
                         <h4>Account Manager - MN</h4>
                         <p>Aston Technologies Inc. is an innovative IT staffing and solutions company in Saint Louis Park, Minnesota and is looking for a dynamic, enthusiastic, performance-driven Sales Account Manager.
                            This position demands an exceptional balance of drive and commitment coupled with exemplary interpersonal skills, topped off with a positive mindset.</p>

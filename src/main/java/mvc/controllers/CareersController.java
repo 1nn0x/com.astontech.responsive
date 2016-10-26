@@ -12,4 +12,12 @@ public class CareersController
         return "careers";
     }
 
+
+    @RequestMapping("/careers/job_one")
+    String jobOne()
+    {
+        return "/careers/job_one";
+    }
+
+
 }

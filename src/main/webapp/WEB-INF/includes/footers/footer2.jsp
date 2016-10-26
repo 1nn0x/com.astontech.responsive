@@ -5,7 +5,7 @@
             <div class="row">
                 <!-- About -->
                 <div class="col-md-3 md-margin-bottom-40">
-                    <a href="index.html"><img id="logo-footer" class="footer-logo" src="assets/img/header-logo.png" alt="" style="max-width: 125px; max-height: 85px;"></a>
+                    <a href="index.html"><img id="logo-footer" class="footer-logo" src="/assets/img/header-logo.png" alt="" style="max-width: 125px; max-height: 85px;"></a>
                     <p>For more details about how our speed and skill with technology can strengthen your business, please contact us.
                         <br>
                         <span class="color-green">Aston Technologies</span> stands ready to support the quality of service you need to provide, when and where you need IT.</p>

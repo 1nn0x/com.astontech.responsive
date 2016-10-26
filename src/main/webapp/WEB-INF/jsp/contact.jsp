@@ -2,10 +2,28 @@
 
 
 
-<!-- Google Map -->
-<div id="map" class="map">
-</div><!---/map-->
-<!-- End Google Map -->
+<!-- Tab v1 -->
+<div class="tab-v1" style="margin-top: 20px;">
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="#MN" data-toggle="tab">Minnesota</a></li>
+        <li><a href="#CA" data-toggle="tab">California</a></li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane fade in active" id="MN">
+            <!-- Minnesota Map -->
+            <div id="map" class="map">
+            </div><!---/map-->
+            <!-- End Minnesota Map -->
+        </div>
+        <div class="tab-pane fade in" id="CA">
+            <!-- California Map -->
+            <div id="map2" class="map">
+            </div><!---/map-->
+            <!-- End California Map -->
+        </div>
+    </div>
+</div>
+<!-- End Tab v1 -->
 
 <!--=== Content Part ===-->
 <div class="container content">
@@ -49,34 +67,6 @@
                             </label>
                         </section>
                     </div>
-
-                    <div class="row">
-                        <section class="col col-6">
-                            <label class="label">File input</label>
-                            <label for="file" class="input input-file">
-                                <div class="button"><input type="file" id="file" onchange="this.parentNode.nextSibling.value = this.value">Browse</div><input type="text" readonly="">
-                            </label>
-                        </section>
-                        <section class="col col-6">
-                            <label class="label">Select</label>
-                            <label class="select">
-                                <select>
-                                    <option value="0">How did you hear about us?</option>
-                                    <option value="1">Career Builder</option>
-                                    <option value="2">Craigslist</option>
-                                    <option value="3">Dice</option>
-                                    <option value="4">Glassdoor</option>
-                                    <option value="5">Indeed</option>
-                                    <option value="6">Monster</option>
-                                    <option value="7">Referral</option>
-                                    <option value="8">Schools</option>
-                                    <option value="9">Simply Hired</option>
-                                    <option value="10">Other</option>
-                                </select>
-                                <i></i>
-                            </label>
-                        </section>
-                    </div>
                     <div class="row">
                         <section class="col col-sm-12">
                             <label class="label">Message</label>
@@ -97,29 +87,29 @@
 
         <div class="col-md-3">
             <!-- Contacts -->
-            <div class="headline"><h2>Contacts</h2></div>
+            <div class="headline"><h2>Minnesota</h2></div>
             <ul class="list-unstyled who margin-bottom-30">
-                <li><a href="#"><i class="fa fa-home"></i>5402 Parkdale Drive., Suite 211 <br> Saint Louis Park, Minnesota 55416</a></li>
+                <li><a href="#"><i class="fa fa-home"></i>5402 Parkdale Drive, Suite 211 <br> Saint Louis Park, Minnesota 55416</a></li>
                 <li><a href="#"><i class="fa fa-envelope"></i>info@astontech.com</a></li>
-                <li><a href="#"><i class="fa fa-phone"></i>1(952) 546 1693</a></li>
+                <li><a href="#"><i class="fa fa-phone"></i>1 (952) 546 1693</a></li>
+                <li><a href="#"><i class="fa fa-globe"></i>http://www.astontech.com</a></li>
+            </ul>
+
+            <!-- Why we are? -->
+            <div class="headline"><h2>California</h2></div>
+            <ul class="list-unstyled who margin-bottom-30">
+                <li><a href="#"><i class="fa fa-home"></i>6000 Shoreline Court, Suite 325 <br> South San Francisco, California 94080</a></li>
+                <li><a href="#"><i class="fa fa-envelope"></i>info@astontech.com</a></li>
+                <li><a href="#"><i class="fa fa-phone"></i>1 (650) 835 7570</a></li>
                 <li><a href="#"><i class="fa fa-globe"></i>http://www.astontech.com</a></li>
             </ul>
 
             <!-- Business Hours -->
             <div class="headline"><h2>Business Hours</h2></div>
-            <ul class="list-unstyled margin-bottom-30">
+            <ul class="list-unstyled">
                 <li><strong>Monday-Friday:</strong> 9am to 6pm</li>
                 <li><strong>Saturday:</strong> Closed</li>
                 <li><strong>Sunday:</strong> Closed</li>
-            </ul>
-
-            <!-- Why we are? -->
-            <div class="headline"><h2>Why we are?</h2></div>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
-            <ul class="list-unstyled">
-                <li><i class="fa fa-check color-green"></i> Odio dignissimos ducimus</li>
-                <li><i class="fa fa-check color-green"></i> Blanditiis praesentium volup</li>
-                <li><i class="fa fa-check color-green"></i> Eos et accusamus</li>
             </ul>
         </div><!--/col-md-3-->
     </div><!--/row-->
